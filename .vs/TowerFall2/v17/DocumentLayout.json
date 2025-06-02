@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\noemi\\Documents\\Noemie\\BINUS\\Game Programming\\Games\\Paltformer\\TowerFall2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8F1BE9-CCD7-9903-DD86-4B571C14384C}|Assembly-CSharp.csproj|C:\\Users\\noemi\\Documents\\Noemie\\BINUS\\Game Programming\\Games\\Paltformer\\TowerFall2\\assets\\scripts\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8F1BE9-CCD7-9903-DD86-4B571C14384C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerScript.cs",
+              "DocumentMoniker": "C:\\Users\\noemi\\Documents\\Noemie\\BINUS\\Game Programming\\Games\\Paltformer\\TowerFall2\\Assets\\Scripts\\PlayerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerScript.cs",
+              "ToolTip": "C:\\Users\\noemi\\Documents\\Noemie\\BINUS\\Game Programming\\Games\\Paltformer\\TowerFall2\\Assets\\Scripts\\PlayerScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerScript.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowBAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T08:39:41.764Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
